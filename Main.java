@@ -16,7 +16,10 @@ public class Main {
         obj2.Dial();
 
 
+
+
             int age = 56;
+            int year=2024;
             String Name = Aadil;
             String Batch = "CSD 85";
             double Marks = 46.78;
