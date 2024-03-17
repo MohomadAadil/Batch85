@@ -14,18 +14,13 @@ public class Main {
 
         obj2.call();
         obj2.Dial();
-        obj2.SMS();
 
 
-        System.out.println();
-
-
-        obj3.call();
-        obj3.Dial();
-        obj3.SMS();
-        obj3.PlayGames();
-
-
+            int age = 56;
+            String Name = Aadil;
+            String Batch = "CSD 85";
+            double Marks = 46.78;
+            System.out.println();
 
     }
 }
